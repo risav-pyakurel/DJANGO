@@ -10,7 +10,7 @@ def home(request):
     'WAP to check the prime or composite',
     'WAP to check the odd or even',
     'WAP to print pascal triangles',
-    'wap to print all prime numbers from 1 to 100'
+    'WAP to print all prime numbers from 1 to 100'
   ]
 
   student={
