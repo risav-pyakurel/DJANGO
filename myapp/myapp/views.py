@@ -3,6 +3,10 @@ from django.shortcuts import render
 import datetime
 
 def home(request):
+  if request.method == 'POST':
+   check=request.POST['check']
+   print(check)
+
   date= datetime.datetime.now()
   isActive =True
   name = "Momo and Code"
@@ -18,7 +22,7 @@ def home(request):
     'student_college': "Amrit Science Campus ",
     'student_city': "Kathmandu"
   }
-  print("test function is called from view")
+  #print("test function is called from view")
   #return HttpResponse(" <h1> Hello this is index page  </h1> " +str(date))
   data= {
     'date':date,
