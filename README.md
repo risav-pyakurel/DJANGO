@@ -70,7 +70,7 @@ Here are some resources I found helpful:
 - [Django Documentation](https://docs.djangoproject.com/en/stable/)
 - [Django for Beginners](https://djangoforbeginners.com/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/)
-- [Chai aur Django] (https://www.youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy)
+- [Chai aur Django](https://www.youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy)
 
 
 
