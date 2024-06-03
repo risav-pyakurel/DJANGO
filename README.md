@@ -29,6 +29,15 @@ On the second day, I delved into several key aspects of Django:
 - **Views**: Understood how views work to handle requests and return responses.
 - **URLs**: Learned how to map URLs to views, enabling navigation through the web application.
 
+## Day 3: Jinja2 Templating and Django Apps
+
+### Topics Covered:
+-Jinja2 Templating
+-Django Apps
+
+###Summary:
+Today's focus was on enhancing my templating skills with Jinja2 and understanding the structure and functionality of Django apps. These additions further empower me to craft dynamic and modular web applications. Can't wait to see what's next in this exciting journey!
+
 I’m excited to continue building on this knowledge and create some amazing web applications!
 
 ## How to Run This Project
