@@ -32,10 +32,10 @@ On the second day, I delved into several key aspects of Django:
 ## Day 3: Jinja2 Templating and Django Apps
 
 ### Topics Covered:
--Jinja2 Templating
--Django Apps
+- Jinja2 Templating
+- Django Apps
 
-###Summary:
+### Summary:
 Today's focus was on enhancing my templating skills with Jinja2 and understanding the structure and functionality of Django apps. These additions further empower me to craft dynamic and modular web applications. Can't wait to see what's next in this exciting journey!
 
 I’m excited to continue building on this knowledge and create some amazing web applications!
