@@ -4,9 +4,9 @@ from django.utils import timezone
 
 class MomoVarity(models.Model):
     MOMO_TYPE_CHOICE= [
-        ('SM', 'STEAM MOMO')
-        ('FM','Fried MOMO')
-        ('CM', 'Chilliy MOMO')
+        ('SM', 'STEAM MOMO'),
+        ('FM','Fried MOMO'),
+        ('CM', 'Chilliy MOMO'),
     ]
     name = models.CharField(max_length= 100)
     image = models.ImageField(upload_to='momo/')
